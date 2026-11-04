@@ -213,4 +213,4 @@ Gems is offered as a complete free version with all features and updates include
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-04 11:51:27 UTC
+**Last updated:** 2026-11-04 19:06:18 UTC
